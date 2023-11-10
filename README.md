@@ -4,8 +4,8 @@ teste 2
 
 # saindo, criando novo projeto, e voltando para o antigo
 
-FELIZ DIA DAS CRIANÇAS
+FINAL DO ANO JÁ ESTÁ CHEGANDO..
 
 # 10/11/2023
 
-NOvas mudanças!!
+Novas mudanças!!
